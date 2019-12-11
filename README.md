@@ -26,6 +26,7 @@ Open the program using Visual Studio and click "Start" button to run this progra
 ## Visuals
 
 Demo
+
 ![Alt execution capture](/captures/demo_1.JPG)
 
 ![Alt execution capture](/captures/demo_2.JPG)
